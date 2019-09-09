@@ -4,3 +4,91 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Sujeetpanda/Springboot.git
 git push -u origin master
+
+1  cd ~/.ssh
+    2  ls
+    3  cat id_rsa.pub
+    4  ssh-keygen -t rsa -C "sujeet.panda@oracle.com"
+    5  ls
+    6  cat id_rsa.pub
+    7  d:
+    8  d:
+    9  d:\
+   10  cd d:ls
+   11  dir
+   12  pwd
+   13  cd D:\springboot
+   14  ls
+   15  cd IntelliJ\ IDEA\ 2019.2/
+   16  ls
+   17  cd ../
+   18  ls
+   19  cd demo
+   20  ls
+   21  git remote add origin https://github.com/Sujeetpanda
+   22  git init
+   23  git remote add origin https://github.com/Sujeetpanda
+   24  git push origin master
+   25  git branch
+   26  git status
+   27  cd sprigboot/
+   28  git status
+   29  git push -u origin master
+   30  export http_proxy=http://adc-proxy.oracle.com:80
+   31  export https_proxy=http://adc-proxy.oracle.com:80
+   32  export proxy=http://adc-proxy.oracle.com:80
+   33  git push -u origin master
+   34  git og
+   35  git log
+   36  git add
+   37  git add .
+   38  git commit -m "pushing"
+   39  git push -u origin master
+   40  cat ~/.ssh/id_rsa.pub
+   41  git push -u origin master
+   42  git remote -v
+   43  git remote --v
+   44  git remote -vv
+   45  git remote add origin https://github.com/Sujeetpanda
+   46  git remote -vv
+   47  git push -u origin master
+   48  git push -u origin master
+   49  git push -u origin master
+   50  git remote add origin
+   51  git remote add origin
+   52  git remote add origin https://github.com/Sujeetpanda/Springboot
+   53  git remote -v
+   54  git push -u origin master
+   55  git remote remove origin
+   56  git remote -v
+   57  git remote add origin https://github.com/Sujeetpanda/Springboot
+   58  git remote -v
+   59  git push -u origin master
+   60  git pull
+   61  git push -u origin master
+   62  git pull
+   63  git pull origin
+   64*
+   65  ls
+   66  git pull --allow-unrelated-histories
+   67  git pull origin master --allow-unrelated-histories
+   68  git status
+   69  ls
+   70  git og
+   71  git log
+   72  git push origin master
+   73  ls
+   74  git rm -rf target/
+   75  git status -u
+   76  ls
+   77  git rm -rf target
+   78  ls
+   79  git rm -f sprigboot.7z
+   80  ls
+   81  git add -a
+   82  git add -u
+   83  git status
+   84  git commit -m "deleting target and 7z"
+   85  git push origin master
+   86  history
+
